@@ -1,4 +1,4 @@
-# Telegram Soru Botu
+# Telegram Flört Soru Botu
 
 Bu proje, Telegram üzerinden rastgele soruları kullanıcılara gönderen bir Telegram botunu içerir. Bot, belirli bir komutla çağrıldığında rastgele bir soru seçer ve kullanıcıya gönderir.
 
@@ -41,7 +41,3 @@ sorular = [
     "Hayalinizdeki tatil yerini anlatır mısınız?",
     "En sevdiğiniz aşk şarkısı hangisi?"
 ]
-
-
----
-
