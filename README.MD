@@ -41,7 +41,7 @@ sorular = [
     "Hayalinizdeki tatil yerini anlatır mısınız?",
     "En sevdiğiniz aşk şarkısı hangisi?"
 ]
-```
+
 
 ---
 
