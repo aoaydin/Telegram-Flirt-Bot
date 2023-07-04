@@ -45,21 +45,3 @@ sorular = [
 
 ---
 
-Bu README.md dosyası, Telegram üzerinden rastgele sorular gönderen bir botun nasıl kullanılacağını ve kodun nasıl çalıştırılacağını anlatır. Projeyi başlatmak için adımları takip edebilir ve botunuzu kişiselleştirebilirsiniz.
-```
-
-Bu README.md dosyasını GitHub projesine ekleyerek projenizi açıklayıcı bir şekilde sunabilirsiniz. İşte GitHub'da bir projeyi oluştururken bir README.md dosyasını nasıl ekleyeceğinizle ilgili adımlar:
-
-1
-
-. GitHub hesabınıza giriş yapın ve projenizi oluşturmak istediğiniz depoyu seçin.
-
-2. Yeni depo oluşturma sayfasında, projenize bir isim ve kısa bir açıklama verin.
-
-3. "Initialize this repository with a README" (Bu depoyu README dosyasıyla başlat) seçeneğini işaretleyin.
-
-4. Aşağı kaydırarak oluşturulan README.md dosyasını düzenleyin ve içeriği yukarıdaki örneğe göre güncelleyin.
-
-5. README.md dosyasını kaydedin ve GitHub depo oluşturma işlemini tamamlayın.
-
-Bu şekilde, GitHub depo sayfanızda projenizin açıklamasını ve nasıl kullanılacağını anlatan bir README.md dosyası görünecektir.
