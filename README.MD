@@ -17,7 +17,7 @@ Bu proje, Telegram üzerinden rastgele soruları kullanıcılara gönderen bir T
 
 5. Terminale aşağıdaki komutu yazarak botu çalıştırın:
    ```
-   python main.py
+   python bot.py
    ```
 
 6. Bot çalışır duruma geldiğinde, Telegram'da botunuzun adını veya kullanıcı adını aratarak botunuzu bulabilir ve kullanmaya başlayabilirsiniz.
